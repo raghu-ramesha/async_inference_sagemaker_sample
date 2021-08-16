@@ -1,4 +1,6 @@
 # async_inference_sagemaker_sample
 
-Clone notebook Async-Inference-Walkthrough.ipynb with Data Science Kernel
-Run the notebook
+Steps to follow 
+
+1. Clone notebook Async-Inference-Walkthrough.ipynb with Data Science Kernel
+2. Run the notebook
